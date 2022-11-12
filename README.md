@@ -13,12 +13,12 @@
 
 ## About The Project
 
-This is the library collection for 
+These folders consist of the breadboard schematics and code to build and run the working IoT devices for its parent project: [IoT Smart Home.](https://github.com/brenwick64/iot_client)
 
 
 ### Built With
 
-[![React][React]][React-url] [![TypeScript][TypeScript]][TypeScript-url] [![Arduino][Arduino]][Arduino-url] [![Websockets][Websockets]][Websockets-url]
+[![Arduino][Arduino]][Arduino-url] [![Websockets][Websockets]][Websockets-url] [![C++][C++]][C++-url]
 
 
 
@@ -27,8 +27,7 @@ This is the library collection for
 <!-- GETTING STARTED -->
 ## Getting Started 
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+Below are instructions on how to build each device, as well as a common process to flash the source code onto each device using Arduino.
 
 <!-- ### Prerequisites
 
@@ -75,12 +74,11 @@ _Below are the steps to install and run the client locally on yo._
 <!-- MARKDOWN LINKS & IMAGES -->
 
 <!-- Shields -->
-[React]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[React-url]: https://reactjs.org/
-[TypeScript]: https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript&logoColor=3178c6
-[TypeScript-url]: https://www.typescriptlang.org/download
 [Arduino]: https://img.shields.io/badge/Arduino-20232A?style=for-the-badge&logo=arduino&logoColor=008184
 [Arduino-url]: https://www.arduino.cc/
-[Websockets]: https://img.shields.io/badge/Websockets-20232A?style=for-the-badge&logo=Socket.io&logoColor=white
+
 [Websockets]: https://img.shields.io/badge/Websockets-20232A?style=for-the-badge&logo=Socket.io&logoColor=white
 [Websockets-url]:https://socket.io/
+
+[C++]: https://img.shields.io/badge/C++-20232A?style=for-the-badge&logo=cplusplus&logoColor=649ad2
+[C++-url]:https://isocpp.org/
